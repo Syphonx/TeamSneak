@@ -698,3 +698,578 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.01.29-20.29.00:484][670]SourceControl: Source control is disabled
 [2021.01.29-20.29.00:484][670]LogSlate: Window 'Source Control Login' being destroyed
 [2021.01.29-20.29.27:358][ 60]LogSlate: Window 'Source Control Login' being destroyed
+[2021.01.29-20.30.04:065][507]LogSlate: Window 'Tutorials' being destroyed
+[2021.01.29-20.30.54:195][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall2)
+[2021.01.29-20.30.58:732][770]LogUObjectGlobals: Warning: Failed to find object 'Object None.ActorDetails'
+[2021.01.29-20.31.08:755][347]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.01.29-20.31.08:800][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.01.29-20.31.08:835][347]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/FirstPersonExampleMap0944CB9143B1491C14CEC2A6A9D5E023.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.01.29-20.31.09:442][347]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/FirstPersonExampleMap_BuiltData3E627CDA48D9279AF83481B481F42096.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.01.29-20.31.09:454][347]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-20.31.09:454][347]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.01.29-20.31.09:454][347]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.01.29-20.32.25:288][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2021.01.29-20.33.09:188][185]LogSlate: Window 'Message Log' being destroyed
+[2021.01.29-20.34.00:295][249]LogRenderer: Reallocating scene render targets to support 1616x812 Format 10 NumSamples 1 (Frame:10886).
+[2021.01.29-20.34.00:329][250]LogRenderer: Reallocating scene render targets to support 1616x820 Format 10 NumSamples 1 (Frame:10888).
+[2021.01.29-20.34.00:360][251]LogRenderer: Reallocating scene render targets to support 1616x848 Format 10 NumSamples 1 (Frame:10890).
+[2021.01.29-20.34.00:392][252]LogRenderer: Reallocating scene render targets to support 1616x888 Format 10 NumSamples 1 (Frame:10892).
+[2021.01.29-20.34.00:426][253]LogRenderer: Reallocating scene render targets to support 1616x924 Format 10 NumSamples 1 (Frame:10894).
+[2021.01.29-20.34.00:458][254]LogRenderer: Reallocating scene render targets to support 1616x940 Format 10 NumSamples 1 (Frame:10896).
+[2021.01.29-20.34.00:490][255]LogRenderer: Reallocating scene render targets to support 1616x952 Format 10 NumSamples 1 (Frame:10898).
+[2021.01.29-20.34.00:522][256]LogRenderer: Reallocating scene render targets to support 1616x956 Format 10 NumSamples 1 (Frame:10900).
+[2021.01.29-20.34.00:551][257]LogRenderer: Reallocating scene render targets to support 1616x964 Format 10 NumSamples 1 (Frame:10902).
+[2021.01.29-20.34.00:584][258]LogRenderer: Reallocating scene render targets to support 1616x968 Format 10 NumSamples 1 (Frame:10904).
+[2021.01.29-20.34.00:617][259]LogRenderer: Reallocating scene render targets to support 1616x972 Format 10 NumSamples 1 (Frame:10906).
+[2021.01.29-20.37.59:977][842]LogObjectTools: Deleting 1 worlds: /Game/Maps/NewWorld.NewWorld
+[2021.01.29-20.37.59:977][842]LogObjectTools: Currently 3 active worlds: /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2021.01.29-20.38.00:012][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.29-20.38.01:235][842]LogSlate: Window 'Delete Assets' being destroyed
+[2021.01.29-20.38.01:248][842]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-20.38.01:248][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-20.38.01:347][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.01.29-20.38.16:905][157]LogSlate: Window 'New Level' being destroyed
+[2021.01.29-20.38.16:909][157]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.01.29-20.38.16:932][157]LightingResults: New page: Lighting Build
+[2021.01.29-20.38.16:932][157]LoadErrors: New page: Loading map: Template_Default.umap
+[2021.01.29-20.38.16:933][157]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-20.38.16:933][157]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-20.38.16:933][157]MapCheck: New page: Map Check
+[2021.01.29-20.38.16:933][157]LightingResults: New page: Lighting Build
+[2021.01.29-20.38.16:963][157]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000261585E3E00), frame # 22157
+[2021.01.29-20.38.16:963][157]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026158679800), frame # 22157
+[2021.01.29-20.38.16:964][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.01.29-20.38.16:984][157]LogAIModule: Creating AISystem for world Untitled_1
+[2021.01.29-20.38.16:984][157]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002615858A000), frame # 22157
+[2021.01.29-20.38.16:985][157]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026158516C00), frame # 22157
+[2021.01.29-20.38.16:986][157]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.01.29-20.38.16:999][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.01.29-20.38.17:005][157]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.01.29-20.38.17:005][157]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2021.01.29-20.38.17:005][157]LogFileHelpers: Loading map 'Template_Default' took 0.096
+[2021.01.29-20.38.20:136][337]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/Jak/Documents/Personal/TeamSneak'
+[2021.01.29-20.38.27:083][337]LogSlate: Window 'Save Level As' being destroyed
+[2021.01.29-20.38.27:110][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/JaksMap" FILE="../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.29-20.38.27:122][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.01.29-20.38.27:138][337]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/JaksMap46ADD8F046048684D96684A07F5DA90C.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap.umap'
+[2021.01.29-20.38.27:397][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/JaksMap_BuiltData" FILE="../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap_BuiltData.uasset" SILENT=true
+[2021.01.29-20.38.27:410][337]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/JaksMap_BuiltData6F76CCBD45D41FFA719A19B3087F837F.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap_BuiltData.uasset'
+[2021.01.29-20.38.27:515][337]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2021.01.29-20.38.27:515][337]SourceControl: Error: Content/Maps/JaksMap_BuiltData.uasset
+[2021.01.29-20.38.27:515][337]SourceControl: Error: hint: Use -f if you really want to add them.
+[2021.01.29-20.38.27:515][337]SourceControl: Error: hint: Turn this message off by running
+[2021.01.29-20.38.27:515][337]SourceControl: Error: hint: "git config advice.addIgnoredFile false"
+[2021.01.29-20.38.27:538][337]LogFileHelpers: Saving map 'JaksMap' took 0.450
+[2021.01.29-20.38.27:541][337]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-20.38.27:541][337]LogContentValidation: Display: Validating World /Game/Maps/JaksMap.JaksMap
+[2021.01.29-20.38.27:541][337]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/JaksMap_BuiltData.JaksMap_BuiltData
+[2021.01.29-20.38.27:644][344]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/Jak/Documents/Personal/TeamSneak'
+[2021.01.29-20.38.53:287][213]LogWindows: LaunchURL http://docs.unrealengine.com/latest/INT/index.html?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2021.01.29-20.39.29:884][508]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.29-20.39.42:577][156]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.29-20.40.23:297][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/JaksMap" FILE="../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.29-20.40.23:311][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.01.29-20.40.23:330][950]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/JaksMap1BBE8E0E4B949587A4F484B394FDB166.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap.umap'
+[2021.01.29-20.40.23:439][950]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/JaksMap_BuiltData" FILE="../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap_BuiltData.uasset" SILENT=true
+[2021.01.29-20.40.23:454][950]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/JaksMap_BuiltDataE9DF7052426AAE9ABC9E258AFFF2449B.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap_BuiltData.uasset'
+[2021.01.29-20.40.23:459][950]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-20.40.23:459][950]LogContentValidation: Display: Validating World /Game/Maps/JaksMap.JaksMap
+[2021.01.29-20.40.23:459][950]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/JaksMap_BuiltData.JaksMap_BuiltData
+[2021.01.29-20.40.24:138][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.01.29-20.40.24:249][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerCharacter" FILE="../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Blueprints/BP_PlayerCharacter.uasset" SILENT=true
+[2021.01.29-20.40.24:263][993]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/BP_PlayerCharacter51F6E6DA43D956EDA082E69B08A71EFD.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Blueprints/BP_PlayerCharacter.uasset'
+[2021.01.29-20.40.24:407][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_PlayerController" FILE="../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Blueprints/BP_PlayerController.uasset" SILENT=true
+[2021.01.29-20.40.24:416][993]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/BP_PlayerController388F7A9D407B9F8BB1A6509DAA39C552.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Blueprints/BP_PlayerController.uasset'
+[2021.01.29-20.40.24:583][993]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-20.40.24:583][993]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_PlayerCharacter.BP_PlayerCharacter
+[2021.01.29-20.40.24:583][993]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_PlayerController.BP_PlayerController
+[2021.01.29-20.41.00:612][142]LogMaterial: Display: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2021.01.29-20.41.00:634][142]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2021.01.29-20.41.00:648][142]LogMaterial: Display: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2021.01.29-20.41.00:660][142]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2021.01.29-20.41.00:670][142]LogMaterial: Display: Missing cached shader map for material ColorMaskBrushMaterial, compiling. 
+[2021.01.29-20.41.00:680][142]LogMaterial: Display: Missing cached shader map for material LandscapeDirtyMaterial, compiling. 
+[2021.01.29-20.41.00:694][142]LogMaterial: Display: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2021.01.29-20.41.00:716][142]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.01.29-20.41.00:724][142]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.01.29-20.41.00:733][142]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.01.29-20.41.00:742][142]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.01.29-20.41.00:752][142]LogMaterial: Display: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2021.01.29-20.41.00:762][142]LogMaterial: Display: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2021.01.29-20.41.00:772][142]LogMaterial: Display: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2021.01.29-20.41.00:787][142]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2021.01.29-20.41.00:819][142]LogSlate: Took 0.007519 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.01.29-20.41.09:615][650]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2021.01.29-20.41.09:617][650]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2021.01.29-20.41.48:076][650]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.01.29-20.43.22:274][282]LogSlate: WidgetSwitcher ('None') active index changed to 2
+[2021.01.29-20.43.35:321][ 64]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.01.29-20.44.38:874][866]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2021.01.29-20.44.43:741][159]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.01.29-20.44.55:953][887]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2021.01.29-20.47.13:531][904]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.01.29-20.47.14:398][956]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.01.29-20.47.15:198][  4]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.01.29-20.47.23:503][484]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.01.29-20.47.23:937][509]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.01.29-20.47.30:943][906]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.01.29-20.47.31:677][950]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.01.29-20.47.45:028][720]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.01.29-20.47.50:193][993]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2021.01.29-20.47.53:021][150]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.01.29-20.47.54:030][209]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.01.29-20.48.14:197][411]LogSlate: Window 'FBX Export Options' being destroyed
+[2021.01.29-20.48.14:280][411]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.5.0
+
+
+[2021.01.29-20.48.17:948][621]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.01.29-20.48.46:055][919]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2021.01.29-20.48.47:490][  4]Cmd: DELETE
+[2021.01.29-20.48.47:490][  4]Cmd: ACTOR DELETE
+[2021.01.29-20.48.47:492][  4]LogEditorActor: Deleted Actor: Landscape
+[2021.01.29-20.48.47:524][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.01.29-20.48.47:526][  4]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2021.01.29-20.48.50:896][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/JaksMap" FILE="../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.29-20.48.50:908][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.01.29-20.48.50:938][201]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/JaksMap4CB60A704946A1A8E2FE5E8FBB7BF53C.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap.umap'
+[2021.01.29-20.48.51:054][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/JaksMap_BuiltData" FILE="../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap_BuiltData.uasset" SILENT=true
+[2021.01.29-20.48.51:071][201]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/JaksMap_BuiltDataFDAC96564A9FD895E52C5D86E2CBEF5F.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap_BuiltData.uasset'
+[2021.01.29-20.48.51:077][201]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-20.48.51:077][201]LogContentValidation: Display: Validating World /Game/Maps/JaksMap.JaksMap
+[2021.01.29-20.48.51:077][201]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/JaksMap_BuiltData.JaksMap_BuiltData
+[2021.01.29-20.48.58:797][664]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-20.48.58:814][664]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-20.48.58:814][664]PIE: New page: PIE session: JaksMap (29 Jan 2021, 20:48:58)
+[2021.01.29-20.48.58:815][664]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.01.29-20.48.58:816][664]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.01.29-20.48.58:817][664]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JaksMap
+[2021.01.29-20.48.58:824][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006157s)
+[2021.01.29-20.48.58:825][664]LogAIModule: Creating AISystem for world JaksMap
+[2021.01.29-20.48.58:825][664]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000261725FC600), frame # 45664
+[2021.01.29-20.48.58:825][664]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026123FA0900), frame # 45664
+[2021.01.29-20.48.58:825][664]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2021.01.29-20.48.58:825][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JaksMap.JaksMap to /Game/Maps/UEDPIE_0_JaksMap.JaksMap (0.007656s)
+[2021.01.29-20.48.58:838][664]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.29-20.48.58:840][664]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-20.48.58:840][664]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-20.48.58:840][664]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-20.48.58:840][664]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-20.48.58:840][664]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-20.48.58:840][664]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-20.48.58:840][664]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-20.48.58:840][664]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-20.48.58:840][664]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-20.48.58:840][664]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-20.48.58:843][664]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-20.48.58:843][664]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-20.48.58:855][664]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2021.01.29-20.48.58:856][664]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-20.48.58:856][664]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-20.48.58:856][664]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-20.48.58:856][664]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-20.48.58:865][664]LogInit: FAudioDevice initialized.
+[2021.01.29-20.48.58:877][664]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.29-20.48.58:883][664]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JaksMap.JaksMap up for play (max tick rate 0) at 2021.01.29-20.48.58
+[2021.01.29-20.48.58:884][664]LogWorld: Bringing up level for play took: 0.000751
+[2021.01.29-20.48.58:884][664]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.01.29-20.48.58:896][664]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.01.29-20.48.58:903][664]PIE: Server logged in
+[2021.01.29-20.48.58:905][664]PIE: Play in editor total start time 0.096 seconds.
+[2021.01.29-20.49.14:502][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-20.49.14:502][599]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JaksMap
+[2021.01.29-20.49.14:502][599]LogWorld: UWorld::CleanupWorld for JaksMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-20.49.14:502][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-20.49.14:516][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-20.49.14:518][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-20.49.14:530][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-20.49.14:544][599]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026123FA0900), frame # 46599
+[2021.01.29-20.49.14:544][599]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000261725FC600), frame # 46599
+[2021.01.29-20.49.14:545][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.01.29-20.49.14:596][601]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.01.29-20.49.51:345][800]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.01.29-20.49.51:539][800]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 125 classes and 0 folders.
+[2021.01.29-20.49.52:229][800]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.01.29-20.49.53:281][855]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2021.01.29-20.49.55:279][957]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-20.49.55:279][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-20.49.55:330][957]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2021.01.29-20.49.56:316][998]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonHUD.FirstPersonHUD
+[2021.01.29-20.50.57:051][954]LogSlate: Window 'FirstPersonHUD' being destroyed
+[2021.01.29-20.51.18:331][166]LogEditorTransaction: Undo Delete current selection
+[2021.01.29-20.51.48:669][911]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.01.29-20.51.48:718][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.01.29-20.51.57:731][ 80]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/FirstPersonCharacter29711485437ED6322AB11EA531EBBE95.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.01.29-20.51.57:743][ 80]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.01.29-20.51.57:743][ 80]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.01.29-20.52.19:929][653]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.01.29-20.52.19:968][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.01.29-20.52.21:164][712]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/FirstPersonCharacterCD0C7A3D449C3ED5A26C0CBF8FEF7025.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.01.29-20.52.21:174][712]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.01.29-20.52.21:174][712]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.01.29-20.52.22:146][770]LogRenderer: Reallocating scene render targets to support 1616x1260 Format 10 NumSamples 1 (Frame:1).
+[2021.01.29-20.52.31:193][312]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_105 via property FP_Gun, but TRASH_SkeletalMeshComponent_105 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.01.29-20.52.31:195][312]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_50 via property FP_Gun, but TRASH_SkeletalMeshComponent_50 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_5:PersistentLevel.FirstPersonCharacter_C_2
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.01.29-20.52.31:205][312]LogScript: Warning: Attempted to access TRASH_SkeletalMeshComponent_105 via property FP_Gun, but TRASH_SkeletalMeshComponent_105 is pending kill
+	FirstPersonCharacter_C /Engine/Transient.World_8:PersistentLevel.FirstPersonCharacter_C_0
+	Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:UserConstructionScript:0017
+[2021.01.29-20.52.34:524][511]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.01.29-20.52.34:529][511]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2021.01.29-20.52.34:577][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.01.29-20.52.35:255][540]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/FirstPersonCharacter2074E7B74825C74F04971DA950957D47.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.01.29-20.52.35:264][540]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.01.29-20.52.35:264][540]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.01.29-20.52.44:549][ 97]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.01.29-20.52.44:553][ 97]LogBlueprint: Error: [Compiler FirstPersonCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2021.01.29-20.52.44:586][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.01.29-20.52.45:149][119]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/FirstPersonCharacter4D0A1D7B4A6F4EF2526ADCBB29FA0EFC.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.01.29-20.52.45:158][119]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.01.29-20.52.45:158][119]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.01.29-20.53.17:058][ 26]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.01.29-20.53.17:096][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.01.29-20.53.17:742][ 53]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/FirstPersonCharacter59FBECC049FB7AC0DA8D9E8FC6203E53.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.01.29-20.53.17:751][ 53]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.01.29-20.53.17:751][ 53]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.01.29-20.53.21:128][257]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-20.53.21:141][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-20.53.21:141][257]PIE: New page: PIE session: JaksMap (29 Jan 2021, 20:53:21)
+[2021.01.29-20.53.21:179][257]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JaksMap
+[2021.01.29-20.53.21:185][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006441s)
+[2021.01.29-20.53.21:186][257]LogAIModule: Creating AISystem for world JaksMap
+[2021.01.29-20.53.21:186][257]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000261AFBDFA00), frame # 57257
+[2021.01.29-20.53.21:186][257]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002615853DD00), frame # 57257
+[2021.01.29-20.53.21:186][257]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2021.01.29-20.53.21:186][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JaksMap.JaksMap to /Game/Maps/UEDPIE_0_JaksMap.JaksMap (0.007536s)
+[2021.01.29-20.53.21:207][257]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.01.29-20.53.21:208][257]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-20.53.21:208][257]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-20.53.21:208][257]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-20.53.21:208][257]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-20.53.21:209][257]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-20.53.21:209][257]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-20.53.21:209][257]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-20.53.21:209][257]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-20.53.21:209][257]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-20.53.21:209][257]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-20.53.21:211][257]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-20.53.21:211][257]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-20.53.21:223][257]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2021.01.29-20.53.21:223][257]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-20.53.21:223][257]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-20.53.21:223][257]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-20.53.21:224][257]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-20.53.21:233][257]LogInit: FAudioDevice initialized.
+[2021.01.29-20.53.21:237][257]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.29-20.53.21:238][257]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JaksMap.JaksMap up for play (max tick rate 0) at 2021.01.29-20.53.21
+[2021.01.29-20.53.21:238][257]LogWorld: Bringing up level for play took: 0.000374
+[2021.01.29-20.53.21:238][257]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.01.29-20.53.21:240][257]PIE: Server logged in
+[2021.01.29-20.53.21:241][257]PIE: Play in editor total start time 0.1 seconds.
+[2021.01.29-20.53.29:339][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-20.53.29:339][648]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JaksMap
+[2021.01.29-20.53.29:339][648]LogWorld: UWorld::CleanupWorld for JaksMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-20.53.29:340][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-20.53.29:360][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-20.53.29:362][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-20.53.29:397][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-20.53.29:397][648]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002615853DD00), frame # 57648
+[2021.01.29-20.53.29:397][648]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000261AFBDFA00), frame # 57648
+[2021.01.29-20.53.29:399][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2021.01.29-20.53.29:429][649]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.01.29-20.53.37:802][142]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/FirstPersonCharacterC3E77A7B48F6909AAFA889A222582ADA.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.01.29-20.53.37:848][142]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.01.29-20.53.37:848][142]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.01.29-20.53.38:476][182]BlueprintLog: New page: Compile FirstPersonCharacter
+[2021.01.29-20.53.38:514][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.01.29-20.53.39:285][220]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/FirstPersonCharacterEA718E794B828A2AD171428B553AE0B2.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2021.01.29-20.53.39:332][220]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2021.01.29-20.53.39:332][220]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2021.01.29-20.53.40:994][321]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-20.53.41:007][321]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-20.53.41:007][321]PIE: New page: PIE session: JaksMap (29 Jan 2021, 20:53:41)
+[2021.01.29-20.53.41:007][321]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JaksMap
+[2021.01.29-20.53.41:013][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005802s)
+[2021.01.29-20.53.41:014][321]LogAIModule: Creating AISystem for world JaksMap
+[2021.01.29-20.53.41:014][321]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000261B17BB800), frame # 58321
+[2021.01.29-20.53.41:014][321]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000261B08E2D40), frame # 58321
+[2021.01.29-20.53.41:014][321]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2021.01.29-20.53.41:014][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JaksMap.JaksMap to /Game/Maps/UEDPIE_0_JaksMap.JaksMap (0.006849s)
+[2021.01.29-20.53.41:036][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.01.29-20.53.41:037][321]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-20.53.41:037][321]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-20.53.41:037][321]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-20.53.41:037][321]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-20.53.41:037][321]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-20.53.41:037][321]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-20.53.41:037][321]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-20.53.41:037][321]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-20.53.41:038][321]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-20.53.41:038][321]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-20.53.41:040][321]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-20.53.41:040][321]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-20.53.41:051][321]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2021.01.29-20.53.41:051][321]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-20.53.41:051][321]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-20.53.41:051][321]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-20.53.41:052][321]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-20.53.41:061][321]LogInit: FAudioDevice initialized.
+[2021.01.29-20.53.41:068][321]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.29-20.53.41:068][321]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JaksMap.JaksMap up for play (max tick rate 0) at 2021.01.29-20.53.41
+[2021.01.29-20.53.41:069][321]LogWorld: Bringing up level for play took: 0.000338
+[2021.01.29-20.53.41:069][321]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.01.29-20.53.41:070][321]PIE: Server logged in
+[2021.01.29-20.53.41:071][321]PIE: Play in editor total start time 0.064 seconds.
+[2021.01.29-20.53.50:749][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-20.53.50:749][902]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JaksMap
+[2021.01.29-20.53.50:749][902]LogWorld: UWorld::CleanupWorld for JaksMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-20.53.50:749][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-20.53.50:757][902]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-20.53.50:759][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-20.53.50:792][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-20.53.50:793][902]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000261B08E2D40), frame # 58902
+[2021.01.29-20.53.50:793][902]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000261B17BB800), frame # 58902
+[2021.01.29-20.53.50:794][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.01.29-20.53.50:822][903]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.01.29-20.54.15:473][382]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-20.54.15:486][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-20.54.15:486][382]PIE: New page: PIE session: JaksMap (29 Jan 2021, 20:54:15)
+[2021.01.29-20.54.15:486][382]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JaksMap
+[2021.01.29-20.54.15:492][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006018s)
+[2021.01.29-20.54.15:493][382]LogAIModule: Creating AISystem for world JaksMap
+[2021.01.29-20.54.15:493][382]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000261AD1AAC00), frame # 60382
+[2021.01.29-20.54.15:493][382]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000261B1497D80), frame # 60382
+[2021.01.29-20.54.15:493][382]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2021.01.29-20.54.15:493][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JaksMap.JaksMap to /Game/Maps/UEDPIE_0_JaksMap.JaksMap (0.007111s)
+[2021.01.29-20.54.15:514][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.01.29-20.54.15:515][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-20.54.15:515][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-20.54.15:515][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-20.54.15:515][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-20.54.15:515][382]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-20.54.15:515][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-20.54.15:515][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-20.54.15:515][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-20.54.15:516][382]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-20.54.15:516][382]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-20.54.15:518][382]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-20.54.15:518][382]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-20.54.15:529][382]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2021.01.29-20.54.15:530][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-20.54.15:530][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-20.54.15:530][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-20.54.15:530][382]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-20.54.15:539][382]LogInit: FAudioDevice initialized.
+[2021.01.29-20.54.15:548][382]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.29-20.54.15:549][382]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JaksMap.JaksMap up for play (max tick rate 0) at 2021.01.29-20.54.15
+[2021.01.29-20.54.15:549][382]LogWorld: Bringing up level for play took: 0.000372
+[2021.01.29-20.54.15:549][382]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.01.29-20.54.15:550][382]PIE: Server logged in
+[2021.01.29-20.54.15:551][382]PIE: Play in editor total start time 0.066 seconds.
+[2021.01.29-20.54.30:309][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-20.54.30:309][267]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JaksMap
+[2021.01.29-20.54.30:309][267]LogWorld: UWorld::CleanupWorld for JaksMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-20.54.30:309][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-20.54.30:315][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-20.54.30:318][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-20.54.30:337][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-20.54.30:350][267]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000261B1497D80), frame # 61267
+[2021.01.29-20.54.30:350][267]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000261AD1AAC00), frame # 61267
+[2021.01.29-20.54.30:352][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.01.29-20.54.30:380][268]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.01.29-20.54.34:695][526]LogActorFactory: Actor Factory created Cube
+[2021.01.29-20.54.35:515][575]LogActorFactory: Actor Factory created Cube
+[2021.01.29-20.56.41:731][987]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.01.29-20.56.44:400][141]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_FoundItem.BP_FoundItem
+[2021.01.29-20.56.46:885][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FoundItem" FILE="../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Blueprints/BP_FoundItem.uasset" SILENT=true
+[2021.01.29-20.56.46:896][267]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/BP_FoundItem9FDA9EEE49E676E2674CE7B664B06FA8.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Blueprints/BP_FoundItem.uasset'
+[2021.01.29-20.56.47:039][267]AssetCheck: New page: Asset Save: BP_FoundItem
+[2021.01.29-20.56.47:040][267]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FoundItem.BP_FoundItem
+[2021.01.29-20.56.58:762][900]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.01.29-20.57.06:318][900]LogSlate: Window 'Pick Data Asset Class' being destroyed
+[2021.01.29-20.57.55:339][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.29-20.58.06:681][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.29-20.58.07:298][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.29-20.58.21:412][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/JaksMap" FILE="../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.29-20.58.21:442][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.01.29-20.58.21:474][145]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/JaksMapD99DB167469334218BAB87BD4CA17D4D.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap.umap'
+[2021.01.29-20.58.21:587][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/JaksMap_BuiltData" FILE="../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap_BuiltData.uasset" SILENT=true
+[2021.01.29-20.58.21:605][145]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/JaksMap_BuiltData91053EEC44A58A057F4648950D2FB76A.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap_BuiltData.uasset'
+[2021.01.29-20.58.21:614][145]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-20.58.21:614][145]LogContentValidation: Display: Validating World /Game/Maps/JaksMap.JaksMap
+[2021.01.29-20.58.21:614][145]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/JaksMap_BuiltData.JaksMap_BuiltData
+[2021.01.29-20.58.49:865][483]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.01.29-20.59.43:274][864]BlueprintLog: New page: Compile BP_FoundItem
+[2021.01.29-20.59.43:308][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2021.01.29-20.59.44:080][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_FoundItem" FILE="../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Blueprints/BP_FoundItem.uasset" SILENT=true
+[2021.01.29-20.59.44:095][904]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/BP_FoundItem1F7EF2EB4D1CB3718AFBFCA9549FF785.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Blueprints/BP_FoundItem.uasset'
+[2021.01.29-20.59.44:147][904]AssetCheck: New page: Asset Save: BP_FoundItem
+[2021.01.29-20.59.44:147][904]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_FoundItem.BP_FoundItem
+[2021.01.29-21.00.53:985][ 87]LogEditorViewport: Clicking on Actor (LMB): BP_FoundItem_C (BP_FoundItem)
+[2021.01.29-21.00.58:955][385]LogEditorViewport: Clicking on Actor (LMB): BP_FoundItem_C (BP_FoundItem2)
+[2021.01.29-21.01.11:513][137]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-21.01.11:529][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-21.01.11:529][137]PIE: New page: PIE session: JaksMap (29 Jan 2021, 21:01:11)
+[2021.01.29-21.01.11:529][137]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JaksMap
+[2021.01.29-21.01.11:536][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006309s)
+[2021.01.29-21.01.11:537][137]LogAIModule: Creating AISystem for world JaksMap
+[2021.01.29-21.01.11:537][137]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000261F87A3000), frame # 82137
+[2021.01.29-21.01.11:537][137]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000261EDE4ED40), frame # 82137
+[2021.01.29-21.01.11:537][137]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2021.01.29-21.01.11:537][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JaksMap.JaksMap to /Game/Maps/UEDPIE_0_JaksMap.JaksMap (0.007466s)
+[2021.01.29-21.01.11:563][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.01.29-21.01.11:566][137]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-21.01.11:566][137]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-21.01.11:566][137]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-21.01.11:566][137]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-21.01.11:566][137]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-21.01.11:566][137]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-21.01.11:566][137]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-21.01.11:566][137]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-21.01.11:566][137]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-21.01.11:566][137]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-21.01.11:568][137]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-21.01.11:568][137]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-21.01.11:581][137]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2021.01.29-21.01.11:581][137]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-21.01.11:581][137]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-21.01.11:581][137]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-21.01.11:582][137]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-21.01.11:590][137]LogInit: FAudioDevice initialized.
+[2021.01.29-21.01.11:600][137]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.29-21.01.11:601][137]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JaksMap.JaksMap up for play (max tick rate 0) at 2021.01.29-21.01.11
+[2021.01.29-21.01.11:601][137]LogWorld: Bringing up level for play took: 0.000477
+[2021.01.29-21.01.11:601][137]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.01.29-21.01.11:604][137]PIE: Server logged in
+[2021.01.29-21.01.11:604][137]PIE: Play in editor total start time 0.079 seconds.
+[2021.01.29-21.01.14:746][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-21.01.14:746][326]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JaksMap
+[2021.01.29-21.01.14:746][326]LogWorld: UWorld::CleanupWorld for JaksMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-21.01.14:746][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-21.01.14:755][326]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-21.01.14:758][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-21.01.14:791][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-21.01.14:792][326]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000261EDE4ED40), frame # 82326
+[2021.01.29-21.01.14:792][326]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000261F87A3000), frame # 82326
+[2021.01.29-21.01.14:793][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.01.29-21.01.14:822][327]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.01.29-21.01.18:522][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.01.29-21.01.19:289][596]LogEditorViewport: Clicking on Actor (LMB): BP_FoundItem_C (BP_FoundItem3)
+[2021.01.29-21.01.20:171][649]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_FoundItem_C (BP_FoundItem)
+[2021.01.29-21.01.21:091][704]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_FoundItem_C (BP_FoundItem2)
+[2021.01.29-21.01.23:152][827]Cmd: TRANSACTION UNDO
+[2021.01.29-21.01.23:152][827]LogEditorTransaction: Undo Move Actors
+[2021.01.29-21.01.28:577][138]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-21.01.28:591][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-21.01.28:591][138]PIE: New page: PIE session: JaksMap (29 Jan 2021, 21:01:28)
+[2021.01.29-21.01.28:591][138]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JaksMap
+[2021.01.29-21.01.28:598][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006467s)
+[2021.01.29-21.01.28:599][138]LogAIModule: Creating AISystem for world JaksMap
+[2021.01.29-21.01.28:599][138]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000261B17BB400), frame # 83138
+[2021.01.29-21.01.28:599][138]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000261B08AB880), frame # 83138
+[2021.01.29-21.01.28:599][138]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2021.01.29-21.01.28:599][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JaksMap.JaksMap to /Game/Maps/UEDPIE_0_JaksMap.JaksMap (0.007576s)
+[2021.01.29-21.01.28:624][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.01.29-21.01.28:626][138]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-21.01.28:626][138]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-21.01.28:626][138]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-21.01.28:626][138]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-21.01.28:626][138]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-21.01.28:626][138]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-21.01.28:626][138]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-21.01.28:626][138]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-21.01.28:626][138]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-21.01.28:626][138]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-21.01.28:628][138]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-21.01.28:628][138]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-21.01.28:640][138]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2021.01.29-21.01.28:640][138]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-21.01.28:640][138]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-21.01.28:640][138]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-21.01.28:640][138]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-21.01.28:649][138]LogInit: FAudioDevice initialized.
+[2021.01.29-21.01.28:653][138]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.29-21.01.28:654][138]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JaksMap.JaksMap up for play (max tick rate 0) at 2021.01.29-21.01.28
+[2021.01.29-21.01.28:654][138]LogWorld: Bringing up level for play took: 0.000454
+[2021.01.29-21.01.28:654][138]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.01.29-21.01.28:656][138]PIE: Server logged in
+[2021.01.29-21.01.28:656][138]PIE: Play in editor total start time 0.067 seconds.
+[2021.01.29-21.01.30:635][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-21.01.30:635][258]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JaksMap
+[2021.01.29-21.01.30:635][258]LogWorld: UWorld::CleanupWorld for JaksMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-21.01.30:635][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-21.01.30:651][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-21.01.30:654][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-21.01.30:686][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-21.01.30:687][258]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000261B08AB880), frame # 83258
+[2021.01.29-21.01.30:687][258]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000261B17BB400), frame # 83258
+[2021.01.29-21.01.30:688][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.01.29-21.01.30:717][259]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.01.29-21.01.33:182][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.01.29-21.01.39:671][796]LogEditorViewport: Clicking on Actor (LMB): BP_FoundItem_C (BP_FoundItem3)
+[2021.01.29-21.01.46:377][198]LogEditorViewport: Clicking on Actor (LMB): BP_FoundItem_C (BP_FoundItem)
+[2021.01.29-21.01.49:796][403]LogEditorViewport: Clicking on Actor (LMB): BP_FoundItem_C (BP_FoundItem2)
+[2021.01.29-21.01.55:688][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/JaksMap" FILE="../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.29-21.01.55:714][748]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.01.29-21.01.55:742][748]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/JaksMap2E18DCF34B57B30A5ABBADBE0744850D.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap.umap'
+[2021.01.29-21.01.55:862][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/JaksMap_BuiltData" FILE="../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap_BuiltData.uasset" SILENT=true
+[2021.01.29-21.01.55:874][748]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/JaksMap_BuiltData3131EEAC4B1BD749803E52887C440C40.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap_BuiltData.uasset'
+[2021.01.29-21.01.55:881][748]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-21.01.55:881][748]LogContentValidation: Display: Validating World /Game/Maps/JaksMap.JaksMap
+[2021.01.29-21.01.55:881][748]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/JaksMap_BuiltData.JaksMap_BuiltData
+[2021.01.29-21.01.58:284][894]LogTemp: Repeating last play command: Selected Viewport
+[2021.01.29-21.01.58:299][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.01.29-21.01.58:299][894]PIE: New page: PIE session: JaksMap (29 Jan 2021, 21:01:58)
+[2021.01.29-21.01.58:299][894]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_JaksMap
+[2021.01.29-21.01.58:305][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006134s)
+[2021.01.29-21.01.58:306][894]LogAIModule: Creating AISystem for world JaksMap
+[2021.01.29-21.01.58:306][894]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000261B0219E00), frame # 84894
+[2021.01.29-21.01.58:306][894]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000026168450CC0), frame # 84894
+[2021.01.29-21.01.58:306][894]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2021.01.29-21.01.58:306][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/JaksMap.JaksMap to /Game/Maps/UEDPIE_0_JaksMap.JaksMap (0.007276s)
+[2021.01.29-21.01.58:329][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.01.29-21.01.58:331][894]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.01.29-21.01.58:331][894]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.01.29-21.01.58:331][894]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.01.29-21.01.58:331][894]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.01.29-21.01.58:331][894]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.01.29-21.01.58:331][894]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.01.29-21.01.58:331][894]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.01.29-21.01.58:331][894]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.01.29-21.01.58:331][894]LogAudio: Display: Using built-in audio occlusion.
+[2021.01.29-21.01.58:331][894]LogAudioMixer: Display: Initializing audio mixer.
+[2021.01.29-21.01.58:333][894]LogAudioMixer: Display: 0: FrontLeft
+[2021.01.29-21.01.58:333][894]LogAudioMixer: Display: 1: FrontRight
+[2021.01.29-21.01.58:344][894]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX 7.1 Audio)
+[2021.01.29-21.01.58:345][894]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.01.29-21.01.58:345][894]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.01.29-21.01.58:345][894]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.01.29-21.01.58:345][894]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.01.29-21.01.58:354][894]LogInit: FAudioDevice initialized.
+[2021.01.29-21.01.58:361][894]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.01.29-21.01.58:361][894]LogWorld: Bringing World /Game/Maps/UEDPIE_0_JaksMap.JaksMap up for play (max tick rate 0) at 2021.01.29-21.01.58
+[2021.01.29-21.01.58:362][894]LogWorld: Bringing up level for play took: 0.000491
+[2021.01.29-21.01.58:362][894]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.01.29-21.01.58:363][894]PIE: Server logged in
+[2021.01.29-21.01.58:364][894]PIE: Play in editor total start time 0.068 seconds.
+[2021.01.29-21.01.59:715][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-21.01.59:715][976]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_JaksMap
+[2021.01.29-21.01.59:715][976]LogWorld: UWorld::CleanupWorld for JaksMap, bSessionEnded=true, bCleanupResources=true
+[2021.01.29-21.01.59:716][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-21.01.59:727][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.01.29-21.01.59:729][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.01.29-21.01.59:751][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.01.29-21.01.59:764][976]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000026168450CC0), frame # 84976
+[2021.01.29-21.01.59:764][976]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000261B0219E00), frame # 84976
+[2021.01.29-21.01.59:766][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.01.29-21.01.59:793][977]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.01.29-21.02.06:645][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/JaksMap" FILE="../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.01.29-21.02.06:670][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.01.29-21.02.06:697][379]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/JaksMap175E145646B8ECCE23893699F69B56B3.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap.umap'
+[2021.01.29-21.02.06:804][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/JaksMap_BuiltData" FILE="../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap_BuiltData.uasset" SILENT=true
+[2021.01.29-21.02.06:816][379]LogSavePackage: Moving '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Saved/JaksMap_BuiltData1A9DDC714168134593C22DAC5ECEC47F.tmp' to '../../../../../../Users/Jak/Documents/Personal/TeamSneak/Content/Maps/JaksMap_BuiltData.uasset'
+[2021.01.29-21.02.06:824][379]AssetCheck: New page: Asset Save: multiple assets
+[2021.01.29-21.02.06:824][379]LogContentValidation: Display: Validating World /Game/Maps/JaksMap.JaksMap
+[2021.01.29-21.02.06:824][379]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/JaksMap_BuiltData.JaksMap_BuiltData
