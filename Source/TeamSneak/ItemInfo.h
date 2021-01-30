@@ -6,9 +6,16 @@
 #include "Engine/DataAsset.h"
 #include "ItemInfo.generated.h"
 
-/**
- * 
- */
+UENUM(Blueprintable)
+enum class EItemType : uint8
+{
+	Hat,
+	Scarf,
+	Backpack,
+	Shoe,
+	Book
+};
+
 UCLASS(Blueprintable)
 class TEAMSNEAK_API UItemInfo : public UDataAsset
 {
@@ -24,4 +31,7 @@ public:
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	UStaticMesh* ItemMesh;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	EItemType ItemType;
 };
