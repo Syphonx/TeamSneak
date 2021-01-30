@@ -4,6 +4,9 @@
 
 #include "CoreMinimal.h"
 #include "Engine/DataAsset.h"
+
+#include <Materials/MaterialInstance.h>
+
 #include "ItemInfo.generated.h"
 
 UENUM(Blueprintable)
@@ -24,13 +27,13 @@ class TEAMSNEAK_API UItemInfo : public UDataAsset
 public:
 
 	UItemInfo()
-		: ItemMesh(nullptr)
+		: ItemMaterial(nullptr)
 	{
 		
 	}
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	UStaticMesh* ItemMesh;
+	UMaterialInstance* ItemMaterial;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	EItemType ItemType;
