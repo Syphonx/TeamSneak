@@ -42,5 +42,8 @@ public:
 	TArray<FText> QuestDialogue;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	TArray<FText> CompletionDialogue;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	FQuest Quest;
 };
