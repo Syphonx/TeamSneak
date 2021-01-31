@@ -46,4 +46,7 @@ public:
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	FQuest Quest;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	FText Name;
 };
