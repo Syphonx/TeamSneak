@@ -76,3 +76,6 @@ DerivedDataCache/*
 Saved/Config/Windows/Editor.ini
 Saved/Config/Windows/EditorPerProjectUserSettings.ini
 *.log
+*.pdb
+*.exp
+*.target
