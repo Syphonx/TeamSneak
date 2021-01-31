@@ -5,6 +5,7 @@
 #include "CoreMinimal.h"
 #include "Engine/DataAsset.h"
 #include "ItemInfo.h"
+#include <Sound/SoundCue.h>
 #include "VillagerQuest.generated.h"
 
 USTRUCT(Blueprintable)
@@ -49,4 +50,7 @@ public:
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	FText Name;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	USoundCue* DialogueCue;
 };
